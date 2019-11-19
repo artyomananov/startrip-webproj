@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+
+Disallow: /portfolio/
+Disallow: /portfolio-element/
+Disallow: /portfolio-category/portfolio/
